@@ -237,7 +237,7 @@ export default function Index() {
             <div className="text-center mb-16">
               <h1 className="text-6xl md:text-7xl font-playfair text-deep-navy mb-6 animate-float">
                 Сергей
-                <span className="bg-gradient-to-r from-fire-orange to-teal-accent bg-clip-text text-transparent"> Рахманинов</span>
+                <span className="bg-gradient-to-r from-fire-orange to-teal-accent bg-clip-text text-transparent"> Калинин</span>
               </h1>
               <p className="text-2xl font-source text-gray-600 mb-8">Композитор современности</p>
               <div className="flex justify-center space-x-4">
