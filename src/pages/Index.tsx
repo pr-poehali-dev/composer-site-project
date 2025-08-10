@@ -236,8 +236,8 @@ export default function Index() {
             {/* Hero Section */}
             <div className="text-center mb-16">
               <h1 className="text-6xl md:text-7xl font-playfair text-deep-navy mb-6 animate-float">
-                Александр
-                <span className="bg-gradient-to-r from-fire-orange to-teal-accent bg-clip-text text-transparent"> Космический</span>
+                Сергей
+                <span className="bg-gradient-to-r from-fire-orange to-teal-accent bg-clip-text text-transparent"> Рахманинов</span>
               </h1>
               <p className="text-2xl font-source text-gray-600 mb-8">Композитор современности</p>
               <div className="flex justify-center space-x-4">
